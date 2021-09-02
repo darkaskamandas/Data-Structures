@@ -1,2 +1,2 @@
-# Databases
-Databases-Hackerrank
+# Data Structures
+Data Structures-Hackerrank
